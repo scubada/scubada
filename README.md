@@ -1,4 +1,4 @@
-
+<img src="[../images/img_chania.jpg](https://github.com/scubada/scubada/blob/main/ascii-art%20(3).png)" alt="photo">
 
 <h1 align="center">Hi 👋, I'm Scubada</h1>
 <h3 align="center">A passionate frontend developer from Belarus</h3>
